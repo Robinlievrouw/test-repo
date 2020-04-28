@@ -1,0 +1,6 @@
+,DATE,NIS5,TX_DESCR_NL,TX_DESCR_FR,TX_ADM_DSTR_DESCR_NL,TX_ADM_DSTR_DESCR_FR,TX_PROV_DESCR_NL,TX_PROV_DESCR_FR,TX_RGN_DESCR_NL,TX_RGN_DESCR_FR,CASES,lat,lon
+0,2020-03-01,21004.0,Brussel,Bruxelles,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale,<5,50.85509855840431,4.375478353592151
+1,2020-03-01,21009.0,Elsene,Ixelles,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale,<5,50.8206837552817,4.375337541177958
+2,2020-03-01,21014.0,Sint-Joost-ten-Node,Saint-Josse-ten-Noode,Arrondissement Brussel-Hoofdstad,Arrondissement de Bruxelles-Capitale,,,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale,<5,50.85371898445173,4.369676841402768
+3,2020-03-01,23062.0,Overijse,Overijse,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,Provincie Vlaams-Brabant,Province du Brabant flamand,Vlaams Gewest,Région flamande,<5,50.76820836120552,4.532695331577118
+4,2020-03-01,23088.0,Vilvoorde,Vilvorde,Arrondissement Halle-Vilvoorde,Arrondissement de Hal-Vilvorde,Provincie Vlaams-Brabant,Province du Brabant flamand,Vlaams Gewest,Région flamande,<5,50.92827875262193,4.424015309287975
